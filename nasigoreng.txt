@@ -1,0 +1,11 @@
+Procedure Masak_Nasi_Goreng():
+    Siapkan bahan-bahan (nasi, bawang merah, bawang putih, cabai, daging ayam, sayuran, kecap, garam, minyak)
+    Panaskan minyak di wajan
+    Tumis bawang merah dan bawang putih hingga harum
+    Masukkan daging ayam, tumis hingga matang
+    Tambahkan sayuran dan cabai, aduk rata
+    Masukkan nasi, aduk hingga tercampur dengan bahan lainnya
+    Tuangkan kecap dan garam secukupnya, aduk rata
+    Masak hingga semua bahan matang dan tercampur dengan baik
+    Sajikan nasi goreng dalam piring, tambahkan hiasan sesuai selera
+End Procedure
