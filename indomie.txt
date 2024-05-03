@@ -1,0 +1,11 @@
+Procedure Masak_Indomie():
+    Siapkan bahan-bahan (mie instan, air, bumbu Indomie, telur (opsional), sayuran (opsional))
+    Rebus air dalam panci
+    Masukkan mie instan ke dalam air mendidih, masak hingga lembut
+    Tiriskan mie dan airnya
+    Buka bungkus bumbu Indomie, tuangkan ke dalam mie
+    Aduk hingga bumbu merata dengan mie
+    Jika menggunakan telur, pecahkan telur dan masak di atas panci hingga matang
+    Masukkan mie ke dalam piring, tambahkan telur dan sayuran sebagai hiasan (opsional)
+    Sajikan segera
+End Procedure
